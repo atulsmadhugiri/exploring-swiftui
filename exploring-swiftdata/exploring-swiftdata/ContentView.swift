@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  exploring-swiftdata
-//
-//  Created by atul on 6/11/23.
-//
-
 import SwiftUI
 import SwiftData
 
